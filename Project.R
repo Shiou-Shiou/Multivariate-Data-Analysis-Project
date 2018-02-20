@@ -1,8 +1,6 @@
 rm(list = ls())
 graphics.off()
 
-# set working direction
-setwd("C:/Users/daughter/Documents/Classes_SJSU/Math 257/Project")
 
 # Install the packages #####
 
