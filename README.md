@@ -19,7 +19,7 @@ Lee, B. L., Fan, S. K., & Lu, Y. (2016). A curve-free Bayesian decision-theoreti
 # 3. Data-Mining-Analysis
 The name of R code is Bosch.R
 
-Bosch, one of the world's leading manufacturing companies, wants to improve their manufacturing processes. Through www.Kaggle .com, Bosch provides their manufacturing records data at each step of its assembly lines. With numerical data, categorical data and time data, the goal of our project (“Bosch project”) is to predict the failure, which means to build an algorithm to help Bosch visual these potential failures and adjust their manufacturing procedures.
+Bosch, one of the world's leading manufacturing companies, wants to improve their manufacturing processes. Through www.Kaggle.com, Bosch provides their manufacturing records data at each step of its assembly lines. With numerical data, categorical data and time data, the goal of our project (“Bosch project”) is to predict the failure, which means to build an algorithm to help Bosch visual these potential failures and adjust their manufacturing procedures.
 
 Focused on comparing dimension reduction methods since the results are similar when applying KNN and random forest classified methods on the original data. In our project, we compare the three kinds of dimension reduction methods, PCA, LDA, and random forest. Also, we use k-nearest neighbot method to predict the failure.
 
